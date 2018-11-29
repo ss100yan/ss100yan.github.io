@@ -17,14 +17,13 @@ body
         color: black;
         float: right;
         width: 100%;
-        
       }
 
-h6    {
+#NavLink 
+      {
          float:right;
          padding-left: 30px;
          color: black;
-        
       } 
       
 #Name { 
@@ -62,100 +61,13 @@ h6    {
          margin-left: 120px;
          margin-right: 100px;
          float: left;
-        
-    }
-   
-#txtbox {
-          font-size: 18pt; height: 200px; width : 400px;
-        }
-#txtbox1 {
-            font-size: 18pt; height: 20px; width : 400px;
           }
-#txtbox2 {
-            font-size: 18pt; height: 20px; width : 400px;
-          }       
+    
 img     {
          float: left;
-         
-         } 
-#button  {
-         background: #4AAAA5;
-         color: white;
-         float: left;
-         margin-left: 70px;
-         }  
-form     {
-          float: left;
-         } 
-#img1
-         {
-            position: relative;
-            left: 0px;
-            top: 0px;
-            z-index: 1;
-         }               
-#img2
-         {
-            position: relative;
-            left: 40px;
-            top: 0px;
-            z-index: 1;
-         }     
-#img3
-         {
-            position: relative;
-            left: 80px;
-            top: -20px;
-            z-index: 1;
-         }                                  
-#img4
-         {
-            position: relative;
-            left: 120px;
-            top:-20px;
-            z-index: 1;
-         }     
-         /* projects react text */
-.text-block1 {
-      position: absolute;
-      top: 345px;
-      left: 147px;
-      background-color:#4AAAA5;
-      color: white;
-      padding-left: 20px;
-      padding-right: 20px;
-      z-index: 2;
-  }     
-  .text-block2 {
-      position: absolute;
-      top: 345px;
-      left: 338px;
-      background-color:#4AAAA5;
-      color: white;
-      padding-left: 20px;
-      padding-right: 20px;
-      z-index: 2;
-  } 
-  .text-block3 {
-   position: absolute;
-   top: 345px;
-   left: 527px;
-   background-color:#4AAAA5;
-   color: white;
-   padding-left: 40px;
-   padding-right: 32px;
-   z-index: 2;
-} 
-.text-block4 {
-   position: absolute;
-   top: 345px;
-   left: 717px;
-   background-color:#4AAAA5;
-   color: white;
-   padding-left: 18px;
-   padding-right: 20px;
-   z-index: 2;
-} 
+        } 
+
+
 hr { 
    display: block;
    margin-top: 0.5em;
@@ -166,6 +78,15 @@ hr {
    border-width: 5px;
 }
 
-/* .site-footer { */
-   /* background: orange; */
- /* } */
+.site-footer {
+   background-color:#666666;
+   position: relative;
+   top: 550px;
+   height:60px;
+ }
+ .site-footer-top {
+      background-color:#4AAAA5;
+      position: relative;
+      top: 465px;
+      height:10px;
+    }

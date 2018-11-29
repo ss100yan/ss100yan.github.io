@@ -1,0 +1,69 @@
+#img1
+         {
+            position: relative;
+            left: 0px;
+            top: 0px;
+            z-index: 1;
+         }               
+#img2
+         {
+            position: relative;
+            left: 40px;
+            top: 0px;
+            z-index: 1;
+         }     
+#img3
+         {
+            position: relative;
+            left: 80px;
+            top: -20px;
+            z-index: 1;
+         }                                  
+#img4
+         {
+            position: relative;
+            left: 120px;
+            top:-20px;
+            z-index: 1;
+         }     
+         /* projects react text */
+.text-block1 {
+      position: absolute;
+      top: 345px;
+      left: 147px;
+      background-color:#4AAAA5;
+      color: white;
+      padding-left: 20px;
+      padding-right: 20px;
+      z-index: 2;
+  }     
+  .text-block2 {
+      position: absolute;
+      top: 345px;
+      left: 338px;
+      background-color:#4AAAA5;
+      color: white;
+      padding-left: 20px;
+      padding-right: 20px;
+      z-index: 2;
+  } 
+  .text-block3 {
+   position: absolute;
+   top: 345px;
+   left: 527px;
+   background-color:#4AAAA5;
+   color: white;
+   padding-left: 40px;
+   padding-right: 32px;
+   z-index: 2;
+} 
+.text-block4 {
+   position: absolute;
+   top: 345px;
+   left: 717px;
+   background-color:#4AAAA5;
+   color: white;
+   padding-left: 18px;
+   padding-right: 20px;
+   z-index: 2;
+} 

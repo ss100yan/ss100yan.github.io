@@ -1,0 +1,16 @@
+#txtbox {
+    font-size: 18pt; height: 30%; width : 80%;
+  }
+#txtbox1 {
+      font-size: 18pt; height: 20px; width : 80%;
+    }
+#txtbox2 {
+      font-size: 18pt; height: 20px; width : 80%;
+    }       
+
+#button  {
+   background: #4AAAA5;
+   color: white;
+   float: left;
+   margin-left: 70px;
+   }  
